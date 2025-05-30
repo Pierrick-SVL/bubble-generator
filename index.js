@@ -1,3 +1,7 @@
+console.log("JS chargé !");
+
+
+
 const counterDisplay = document.querySelector("h3");
 let counter = 0;
 
