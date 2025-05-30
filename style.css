@@ -3,6 +3,7 @@ body {
   min-height: 100vh;
   cursor: crosshair;
 }
+
 .bubble {
   position: absolute;
   border-radius: 300px;
@@ -20,9 +21,12 @@ body {
     filter: hue-rotate(720deg);
   }
 }
+
 h3 {
   font-size: 10rem;
   text-align: center;
   margin-top: 20px;
   color: rgba(128, 128, 128, 0.555);
+  display: flex;
+  justify-content: center;
 }

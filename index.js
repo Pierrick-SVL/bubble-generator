@@ -33,4 +33,4 @@ bubble.remove();
 };
 
 
-setInterval(bubbleMaker, 300);
+// setInterval(bubbleMaker, 3000);
